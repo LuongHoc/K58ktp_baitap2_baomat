@@ -1,5 +1,5 @@
 # Lương Văn Học - K225480106025
-# K58ktp - Môn an toàn vằ bảo mật thông tin
+# K58ktp - Môn an toàn và bảo mật thông tin
 ## nội dung bài tập 2
 1) Cấu trúc PDF liên quan chữ ký (Nghiên cứu)
 - Mô tả ngắn gọn: Catalog, Pages tree, Page object, Resources, Content streams,
